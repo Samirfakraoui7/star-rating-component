@@ -1,6 +1,6 @@
-# Getting Started with Create React App with star rating componentd
+# Getting Started with Create React App with text expander componentd
 
-- availble prop that you can use for this reusable star rating component.
+# availble prop that you can use for this reusable star rating component.
 
 - maxRating : defining the number of stars that you want to use default is 5.
 
