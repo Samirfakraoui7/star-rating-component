@@ -2,7 +2,7 @@ import { useState } from "react";
 import Star from "./Star";
 import PropTypes from "prop-types";
 
-StarRating.prototype = {
+StarRating.propTypes = {
   maxRating: PropTypes.number,
   defaultRating: PropTypes.number,
   color: PropTypes.string,
