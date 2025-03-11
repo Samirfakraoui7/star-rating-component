@@ -1,17 +1,27 @@
 # Getting Started with Create React App with star rating componentd
 
-# availble prop that you can use for this reusable star rating component
-# maxRating : defining the number of stars that you want to use default is 5
-# color : deifing the star color and the star rating text color by default is "#ffff00"
-# textColor : deifing the star rating text color by default is "#ffff00"
-# size : deifing the star sizing by default is "32"
-# defaultRating : deifing the default rating by default is 1
-# messages : deifing the rating messages color by default is [] and by default is number
-# className : deifing the star rating className by default is ""
-# onSetRating : deifing the setRating method  
+- availble prop that you can use for this reusable star rating component.
+
+- maxRating : defining the number of stars that you want to use default is 5.
+
+- color : deifing the star color and the star rating text color by default is "#ffff00".
+
+- textColor : deifing the star rating text color by default is "#ffff00".
+
+- size : deifing the star sizing by default is "32".
+
+- defaultRating : deifing the default rating by default is 1.
+
+- messages : deifing the rating messages color by default is [] and by default is number.
+
+- className : deifing the star rating className by default is "".
+
+- onSetRating : deifing the setRating method .
 
 ## Available Scripts
+
 In the project directory, you can run:
+
 ### `npm start`
 
 Runs the app in the development mode.\
